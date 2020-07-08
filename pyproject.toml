@@ -5,7 +5,7 @@ description = "hello world to python using poetry"
 authors = ["Hem Shrestha <hereshem@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3"
 flask = "^1.1.2"
 
 [tool.poetry.dev-dependencies]
